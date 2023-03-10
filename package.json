@@ -1,0 +1,23 @@
+{
+  "name": "warnletbackend",
+  "version": "1.0.0",
+  "description": "Back-end for warnlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "back-end",
+    "neo",
+    "warnlet"
+  ],
+  "author": "Neo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
